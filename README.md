@@ -43,7 +43,7 @@ repo-proyecto/
 ## ⚙️ Instrucciones de Ejecución
 1. Clonar el repositorio en Google Colab:
 ```bash
-   git clone https://github.com/{USUARIO}/{REPO}.git
+   git clone https://github.com/Magali0508/datos-climaticos.git
 ```
 2. Colocar el dataset descargado en la carpeta `/datos`
 3. Ejecutar el script principal:
