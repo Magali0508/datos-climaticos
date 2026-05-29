@@ -7,8 +7,8 @@ Aplicar un flujo de trabajo ágil y distribuido utilizando Git, GitHub y Jira co
 ---
 
 ## 👥 Integrantes de la Célula de Desarrollo
-*   Tron, Magalí (Rol: Hugo/Luis - P1/P3: Líder y Organizador/QA)
-*   Kunz, Pablo (Rol: Paco - P2: Desarrollador)
+*   Tron, Magalí (Rol: Hugo - P1: Líder y Organizador)
+*   Kunz, Pablo (Rol: Paco/Luis - P2/P3: Desarrollador y QA)
 
 ---
 
