@@ -29,7 +29,6 @@ Aplicar un flujo de trabajo ágil y distribuido utilizando Git, GitHub y Jira co
 ## 📁 Estructura del Repositorio
 El proyecto sigue un diseño modular y reproducible estructurado de la siguiente manera:
 
-```text
 repo-proyecto/
 │
 ├── datos/          # Almacena el dataset original en formato CSV o Excel.
