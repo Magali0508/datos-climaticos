@@ -6,15 +6,15 @@ Aplicar un flujo de trabajo ágil y distribuido utilizando Git, GitHub y Jira co
 ---
 
 ## 👥 Integrantes de la Célula de Desarrollo
-*   **Integrante 1:** Tron, Magalí (Rol: Hugo - P1: Líder y Organizador)
-*   **Integrante 2:** Kunz, Pablo (Rol: Paco/Luis - P2/P3: Desarrollador y QA)
+*   **Integrante 1:** Tron, Magalí (Rol: Hugo/Luis - P1/P3: Líder y Organizador/QA)
+*   **Integrante 2:** Kunz, Pablo (Rol: Paco - P2: Desarrollador)
 
 ---
 
 ## 🚀 Escenario Seleccionado
 *   **Escenario elegido:** Escenario A - Datos Climáticos
 *   **Descripción del Dataset:** Se utiliza un conjunto de datos en formato CSV que contiene los registros históricos correspondientes al escenario seleccionado.
-*   **Origen de los datos:** [Insertar el link de donde descargaron el dataset público].
+*   **Origen de los datos:** [https://datahub.io/](https://datahub.io/core/global-temp)
 
 ---
 
