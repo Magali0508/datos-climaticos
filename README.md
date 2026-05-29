@@ -47,7 +47,7 @@ repo-proyecto/
 2. Colocar el dataset descargado en la carpeta `/datos`
 3. Ejecutar el script principal:
 ```bash
-   python scripts/analisis_datos.py
+   python scripts/analisis_climatico.py
 ```
 4. Los resultados se guardarán automáticamente en `/resultados`
 
